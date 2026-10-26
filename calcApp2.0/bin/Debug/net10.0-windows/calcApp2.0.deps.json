@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "calcApp2.0/1.0.0": {
+        "runtime": {
+          "calcApp2.0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calcApp2.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

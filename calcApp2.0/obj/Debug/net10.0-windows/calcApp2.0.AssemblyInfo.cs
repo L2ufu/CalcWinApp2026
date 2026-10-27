@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("calcApp2.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91417d0d8e625242c83f97f1b88bac913a9e57d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("calcApp2.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("calcApp2.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
